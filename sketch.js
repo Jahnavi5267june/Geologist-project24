@@ -34,7 +34,7 @@ function setup(){
 }
 
 function draw(){
-    background("lightBlue");
+    background("pink");
     Engine.update(engine);
 
     stone.display();
